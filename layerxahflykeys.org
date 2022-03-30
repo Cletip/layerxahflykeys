@@ -34,6 +34,7 @@ Pour exporter le package en lisp : 
   ;; (require 'dependances)
 
 
+  (message "test")
   (require 'xah-fly-keys) ; not in emacs
 
   ;; (require 'dired-x) ; in emacs
