@@ -33,17 +33,12 @@ Pour exporter le package en lisp : 
     ;;; Code:
   ;; (require 'dependances)
 
-<<<<<<< HEAD
+
   (require 'xah-fly-keys) ; not in emacs
 
   ;; (require 'dired-x) ; in emacs
 
   ;; (require 'ido) ; in emacs
-=======
-  (require 'dired) ; in emacs
-  (require 'dired-x) ; in emacs
-  (require 'ido) ; in emacs
->>>>>>> test/master
 
 #+end_src
 
