@@ -1,7 +1,7 @@
 
 
 Pour exporter le package en lisp : 
-(org-babel-load-file (expand-file-name "/home/utilisateur/Testdedossier/LayerXahFlyKey/layerxahflykeys.org"))
+(org-babel-load-file (expand-file-name "/home/utilisateur/Testdedossier/layerxahflykeys/layerxahflykeys.org"))
 
 * Débug du package + commentaire
 
