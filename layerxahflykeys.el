@@ -18,19 +18,15 @@
 ;; Package-Requires: ((helm-core "3.8.4") (popup "0.5.3"))
 
 ;;; Code:
-  ;; (require 'dependances)
+;; (require 'dependances)
 
-<<<<<<< HEAD
-  (require 'xah-fly-keys) ; not in emacs
 
-  ;; (require 'dired-x) ; in emacs
+(message "test")
+(require 'xah-fly-keys) ; not in emacs
 
-  ;; (require 'ido) ; in emacs
-=======
-  (require 'dired) ; in emacs
-  (require 'dired-x) ; in emacs
-  (require 'ido) ; in emacs
->>>>>>> test/master
+;; (require 'dired-x) ; in emacs
+
+;; (require 'ido) ; in emacs
 
 (defun xah-get-bounds-of-block ()
   "Return the boundary (START . END) of current block.
